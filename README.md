@@ -8,6 +8,6 @@
 
 | STT |    MSSV    | Họ và tên             |
 | :-: | :--------: | --------------------- |
-|    | 3119410439 | Minh Hiếu Calan Tog   |
+| 1   | 3119410439 | Minh Hiếu Calan Tog   |
 
 ## Các đề bài được đính kèm trong từng thư mục bài toán
